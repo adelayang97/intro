@@ -1,49 +1,51 @@
-# ChihChin Yang (Adela)🧑🏻‍💻 
+# ChihChin Yang (Adela) 🧑🏻‍💻
+**`Data Scientist | Data Analyst`**
 
-**`Data Scientist / Data Analyst`**
+### Professional Summary
 
+Recent M.S. in Data Science graduate from American University with a passion for leveraging coding and statistical analysis to uncover insights about society and the world. Eager to apply academic knowledge and hands-on experience in machine learning, data mining, and Natural Language Processing (NLP) to a challenging role in data science.
 
-I am a graduate student at American University pursuing M.S. in Data Science for College Art and Sciences (Washington, D.C.). 
-<br />
-I am interested in using coding skills and statistical method to discover new things about the society and the world. 
-<br />
+---
 
+### Skills 🛠️
 
-----
+*   **Languages:** Python, R, SQL
+*   **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, TensorFlow, Keras
+*   **Tools:** RStudio, Jupyter Notebooks, VSCode, MySQL, Docker, LaTeX, SPSS, Anaconda
 
-#### Languages and Tools 🛠️
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg />
-          
-                   
-<br />
+---
 
+### Projects 🌱
 
-----
+*The projects on my repo are from the courses listed below. I recommend adding 2-3 of your best projects here.*
 
+**Project 1: [Project Title]**
+*   **Course:** [e.g., Advanced Machine Learning]
+*   **Description:** [Describe the project's goal, the dataset you used, and the main questions you were trying to answer.]
+*   **Techniques & Tools:** [e.g., Logistic Regression, Random Forest, Scikit-learn, Pandas]
+*   **Outcome:** [What was the result of your project? Did you build a model? What was its accuracy? What insights did you find?]
+*   **[Link to Project Repository or Notebook]**
 
-🌱 The projects on my repo are for the courses listed below: 🌱
-- Statistical Method in R
-- Regression
-- Machine Learning
-- Advanced Machine Learning 
-- Data Mining
-- Natural language processing (NLP)
+**Project 2: [Project Title]**
+*   **Course:** [e.g., Natural Language Processing]
+*   **Description:** [Describe the project's goal, the dataset you used, and the main questions you were trying to answer.]
+*   **Techniques & Tools:** [e.g., Sentiment Analysis, Topic Modeling, NLTK, Gensim]
+*   **Outcome:** [What was the result of your project? Did you build a model? What was its accuracy? What insights did you find?]
+*   **[Link to Project Repository or Notebook]**
 
-I am also a research assistant at College Art and Sciences, American University.
+---
 
-I am open to learn various topic and accept different challenges. If you want to collaborate, feel free to reach me!
+### Experience
 
+**Research Assistant** | American University, College of Arts and Sciences | [Start Date] - [End Date]
 
-#### 📫 Contact Information 📫
+*   [Describe your key responsibilities and accomplishments. Use bullet points.]
+*   [Quantify your achievements whenever possible. For example: "Analyzed survey data from 2,000+ participants using R to identify trends in..."]
+*   [Mention any specific skills or tools you used in this role.]
 
-[![Email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:adelayang1997@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Yuka,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn%20Profile-blue?style=for-the-badge&logo=icons-linkedin-transparent&logoColor=white)](linkedin.com/in/adela-yang-710607153)
+---
 
-----
+### 📫 Contact Information
+
+[![Email](https://custom-icon-badges.demolab.com/badge/-Email%20Me-teal?style=for-the-badge&logo=mail&logoColor=white)](mailto:adelayang1997@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Adela,%0A%0AI%20am%20reaching%20out%20because%20.%20.%20.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adela-yang-710607153)
